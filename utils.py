@@ -10,3 +10,4 @@ for i in students:
   if i==students[1]:
       students.remove(i)
 print(students)
+print(students)
